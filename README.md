@@ -1,7 +1,7 @@
 # COVID@UTK
 COVID@UTK provides a dashboard for the University of Tennessee community to be better informed on COVID cases in their area.
 
-https://njromano.github.com/covid-utk
+https://devv-romano.github.io/covid-utk
 
 Join the beta email list: https://forms.gle/aopZKVgn12NgfMj19
 
